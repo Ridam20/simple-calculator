@@ -23,10 +23,4 @@ It takes two numbers and an operator (+, -, *, /) from the user and gives the re
 
 ---
 
-## 🛠️ How to Run:
-1. Download or clone the repo
-2. Run the file using Python:
-
----
-
 Made by "Ridam Gupta" - 17 y/o student, currently learning python and building mini projects step by step.
